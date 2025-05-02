@@ -24,6 +24,35 @@ To build a lightweight desktop application that allows users to:
 - Error handling for invalid city names or connection failures
 - Easy to use for beginners and non-technical users
 
+ 
+## Steps to Run the Project
+STEP 1:Clone the Repository
+First, clone the project to your local machine using the following command:
+git clone https://github.com/your-username/weather-forecast-cli.git
+cd weather-forecast-app
+STEP 2: Install Dependencies
+
+The project uses the requests module to fetch weather data. To install the required dependencies, run:
+pip install -r requirements.txt
+Add Your OpenWeatherMap API Key
+
+STEP 3:
+Go to OpenWeatherMap to sign up and get your free API key.
+
+Create a config.py file in the project directory and add your API key like this:
+API_KEY = "your_openweathermap_api_key"
+Run the Weather Application
+
+STEP 4: Now that everything is set up, you can run the application with this command:
+
+
+python weather.py
+Enter City Name
+
+Once the application is running, you will be prompted to enter a city name. Type the name of the city, and the app will fetch and display the weather information in the terminal.
+
+
+
 ## 🖼️ GUI Preview
 
 ✅ Sample Output
