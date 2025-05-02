@@ -28,7 +28,7 @@ To build a lightweight desktop application that allows users to:
 ## Steps to Run the Project
 STEP 1:Clone the Repository
 First, clone the project to your local machine using the following command:
-git clone https://github.com/your-username/weather-forecast-cli.git
+git clone REPO-URL
 cd weather-forecast-app
 STEP 2: Install Dependencies
 
