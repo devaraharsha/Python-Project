@@ -26,3 +26,9 @@ To build a lightweight desktop application that allows users to:
 
 ## 🖼️ GUI Preview
 
+✅ Sample Output
+Enter city name: Hyderabad
+Weather in Hyderabad:
+Temperature: 32°C
+Condition: Clear sky
+Humidity: 42%
